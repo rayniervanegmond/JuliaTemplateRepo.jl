@@ -1,0 +1,13 @@
+name = "JuliaTemplateRepo"
+uuid = "614c9b27-92c2-4010-be4c-f64037c54fbc"
+authors = ["Raynier van Egmond"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

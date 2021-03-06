@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+JuliaTemplateRepo = "614c9b27-92c2-4010-be4c-f64037c54fbc"
